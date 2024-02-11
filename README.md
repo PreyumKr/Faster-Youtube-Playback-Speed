@@ -9,3 +9,8 @@ The extension is a fork of [Faster-Playback-On-Youtube](https://addons.mozilla.o
 
 ## logo
 ![logo](./logo.png)
+
+## ScreenShots
+![screenshot](./SS1.jpg)
+![screenshot](./SS2.jpg)
+![screenshot](./SS3.jpg)
